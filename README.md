@@ -1,15 +1,18 @@
 # Drawing Game
-Drawing game project with multiple modes for Code Day Labs internship
+
+Drawing game project with multiple modes for Code Day Labs internship!
 
 Currently the features are:
 
 - Free draw page
+
   - Draw with different pen widths and colors
   - Ability to erase and clear canvas
   - Change the color of the canvas
   - Save the images the user draws
 
 - Surprise draw page
+
   - Allows users to draw on a canvas with specialty brushes
   - Also includes the functionalities used in the free draw page
 
@@ -27,10 +30,8 @@ Check out our [demo video](https://drive.google.com/file/d/1JuCivRnTjQrWeVL52uFk
 
 View our project on [CodeDayLabs Website](https://showcase.codeday.org/project/ckqtyhwvo91771810qu4k1dzse4).
 
-
 ## Credits
 
-By [Ananya Thapar](https://www.linkedin.com/in/ananya-thapar-b79737211/), [Anthony Nguyen](https://www.linkedin.com/in/anthony-nguyen-185aa5218), and [Margaret Keu](mailto:margaretkeu@hotmail.com) 
-
+By [Ananya Thapar](https://www.linkedin.com/in/ananya-thapar-b79737211/), [Anthony Nguyen](https://www.linkedin.com/in/anthony-nguyen-185aa5218), and [Margaret Keu](mailto:margaretkeu@hotmail.com)
 
 Mentored by Tanisha Kore
