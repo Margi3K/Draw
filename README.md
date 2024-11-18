@@ -32,6 +32,6 @@ View our project on [CodeDayLabs Website](https://showcase.codeday.org/project/c
 
 ## Credits
 
-By [Ananya Thapar](https://www.linkedin.com/in/ananya-thapar-b79737211/), [Anthony Nguyen](https://www.linkedin.com/in/anthony-nguyen-185aa5218), and [Margaret Keu](mailto:margaretkeu@hotmail.com)
+By [Ananya Thapar](https://www.linkedin.com/in/ananya-thapar-b79737211/), [Anthony Nguyen](https://www.linkedin.com/in/anthony-nguyen-185aa5218), and [Margaret Keu](mailto:mkeu0526@gmail.com)
 
 Mentored by Tanisha Kore
